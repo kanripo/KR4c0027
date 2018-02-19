@@ -6,6 +6,7 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
 #+PROPERTY: FILE SB04n0186-011唐元次山文集-後序.
+# ?
 <pb:KR4c0027_SBCK_011-1a>¶
 　　容州經畧使元結文集後序　李商隱¶
 次山有文編有後集有元子三書皆自爲之序次山¶
